@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="config_activeTaskDurationHours">24</integer>
+    <integer name="config_autoBrightnessBrighteningLightDebounce">500</integer>
+    <integer name="config_autoBrightnessDarkeningLightDebounce">500</integer>
+    <integer name="config_bg_current_drain_exempted_types">25</integer>
+    <integer name="config_bg_current_drain_types_to_restricted_bucket">28</integer>
+    <integer name="config_cameraLaunchGestureSensorType">65540</integer>
+    <integer name="config_defaultFixedOnPeakRefreshRate">0</integer>
+    <integer name="config_defaultMinRefreshRate">45</integer>
+    <integer name="config_defaultPeakRefreshRate">120</integer>
+    <integer name="config_defaultRefreshRate">0</integer>
+    <integer name="config_extraFreeKbytesAbsolute">50000</integer>
+    <integer name="config_halBacklightLevel">1023</integer>
+    <integer name="config_multiuserMaximumUsers">4</integer>
+    <integer name="config_screenBrightnessSettingDefault">111</integer>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_cameraLaunchGestureSensorStringType">com.motorola.sensor.camera_activate</string>
+    <string name="config_mms_user_agent">Android-Mms/2.0</string>
+    <string name="config_mms_user_agent_profile_url">http://www.google.com/oha/rdf/ua-profile-kila.xml</string>
+    <string name="config_motoCameraAppPackageName">com.motorola.camera3</string>
+    <string name="config_moto_def_device_idle_constants">light_idle_to=900000,light_max_idle_to=1800000,inactive_to=900000,idle_after_inactive_to=900000,min_time_to_alarm=600000</string>
+    <string name="config_optionalPackageVerifierName">seemp.service</string>
+    <string name="config_persistentDataPackageName">com.google.android.gms</string>
+    <string name="config_qualified_networks_service_package">vendor.qti.iwlan</string>
+    <string name="config_wlan_data_service_package">vendor.qti.iwlan</string>
+    <string name="config_wlan_network_service_package">vendor.qti.iwlan</string>
+    <string name="zz_moto_config_displayProximitySensorType">com.motorola.sensor.prox_for_call</string>
+</resources>
